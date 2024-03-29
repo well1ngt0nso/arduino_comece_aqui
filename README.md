@@ -5,8 +5,8 @@ Não preciso dizer se gostei ou se aprendi alguma coisa; conheci a plataforma em
 
 SEM MAIS DELONGAS, LET'S GO! (VAMOS LÁ!)
 
-* QUAL O OBJETIVO DO REPOSITÓRIO: O repositório é destinado as pessoas que nunca tiveram contato com essa </br> plataforma (ARDUINO, ESP) ou que queiram reforçar os conhecimentos iniciais. De início, o entendimento de ESP e ARDUINO é igual (conhecimentos avançados em breve aqui nesses outros repositórios: [TECNICAS_AVANCADAS_COM_ESP](https://github.com/well1ngt0nso/arduino_comece_aqui/edit/main/README.md#o-que-%C3%A9-um-esp-o-que-%C3%A9-um-arduino) e [TECNICAS_AVANCADAS_COM_ARDUINO](https://pages.github.com/))
-https://github.com/well1ngt0nso/arduino_comece_aqui/edit/main/README.md#o-que-%C3%A9-um-esp-o-que-%C3%A9-um-arduino
+* QUAL O OBJETIVO DO REPOSITÓRIO: O repositório é destinado as pessoas que nunca tiveram contato com essa </br> plataforma (ARDUINO, ESP) ou que queiram reforçar os conhecimentos iniciais. De início, o entendimento de ESP e ARDUINO é igual (conhecimentos avançados em breve aqui nesses outros repositórios: [TECNICAS_AVANCADAS_COM_ESP](https://github.com/well1ngt0nso/arduino_comece_aqui?tab=readme-ov-file#ok-mas-o-que-posso-fazer-com-isso) e [TECNICAS_AVANCADAS_COM_ARDUINO](https://pages.github.com/))
+
 * REQUISITOS: NENHUM! Conhecimentos iniciais de eletrônica, elétrica no geral ajudariam, mas faremos voltado para quem conhece pouco ou nada. Para você que já conhece em um nível maior, basta pular as pequenas explicações
 
 * SUPORTE: Sempre que possível estarei respondendo aqui na comunidade
