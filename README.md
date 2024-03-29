@@ -18,7 +18,7 @@ SEM MAIS DELONGAS, LET'S GO! (VAMOS LÁ!)
 * TERÁ SÓ CÓDIGOS?: NÃO! Gosto de visualizar as coisas, dissecar o entendimento, então vai ter comentários, imagens, tabelas, vídeos, os arquivos usados na explicação e etc, o objetivo é descomplicar
 
 _**⚠️OBS:**_
-Todas as "aulas" são numeradas em sequência de estudo no final desse arquivo, por exemplo: "#AULA 1 - INTRODUÇÃO",  #"AULA 2 - CONHECENDO A PLACA".... estarei separando em pastas
+Todas as "aulas" são numeradas em sequência de estudo no final desse arquivo, por exemplo: "#AULA 1 - INTRODUÇÃO_ONDE_ENTRA_A_PLACA_NO_PROJETO",  #"AULA 2 - CONHECENDO A PLACA".... estarei separando em pastas
 
 # O QUE É UM ESP? O QUE É UM ARDUINO?🤔
 Ambas são placas baseadas em microcontroladores (chips),de início tenha um microcontrolador como um dispositivo de controle, ou seja, essas placas eletrônicas possibilitam a criação, desenvolvimento, a implementação de uma ampla variadade de projetos, ideias desde os mais simples até os mais avançados, desde projetos para seu próprio uso como também projetos para uso comercial, por exemplo uma ideia que você desenvolveu e que decidiu vender, é totalmente possível, acessível e barato
@@ -29,6 +29,22 @@ Acionamento e Controle de: Lâmpadas, Motores, Leds, Relés, Displays (e muito, 
 Envio e Recebimento de dados: Comunicação com telas para visualização de dados, monitoramento de sensores (temperatura, umidade, pressão, velocidade....), comunicação coom outras placas, 
 Comunicação com telefone, comunicação com a internet...
 Palavras chaves: Controlar dispositivos, processar dados, enviar dados, coletar dados.
+
+
+### Alguns poucos exemplos: 
+
+| ATUADORES | SENSORES |
+|---|---|
+| MOTORES | LUMINOSIDADE |
+| LÂMPADAS | GÁS |
+| VÁLVULAS | PRESSÃO |
+| LASERS | NÍVEL |
+| ALTOFALANTES | UMIDADE |
+| DISPLAYS | TOQUE |
+| TRANSMISSORES | RECEPTORES |
+| WIFI | DISTÂNCIA |
+
+
 
 O MAIS IMPORTANTE É QUE A IDEIA NÃO PRECISA SER RESTRITA A ÁREA ELETRÔNICA, VOCÊ PODE FAZER ALGO PARA UMA ESCOLA, ALGO PARA UMA PADARIA, ALGO PARA UM SALÃO DE BELEZA, ALGO PARA UMA BARBEARIA, ALGO PARA SEU QUARTO, ALGO PARA A EMPRESA ONDE TRABALHA.... SÃO MUITAS AS APLICAÇOES E ÁREAS DE INCORPORAÇÃO
 
@@ -69,4 +85,7 @@ Como citei, são muitos os modelos, bastando ver qual é mais apropriado para a 
 * Com tela? </br>
 * São muitas as características e que pretendo analisar cada uma com vocês...
 
-Sem mais atrasos, vamos para a aula 0
+Sem mais atrasos, vamos para a primeira aula "#AULA 1 - INTRODUÇÃO_ONDE_ENTRA_A_PLACA_NO_PROJETO"
+
+## LISTA DE AULAS EM SEQUÊNCIA 
+
