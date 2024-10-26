@@ -1,5 +1,4 @@
 # 🕹 AULA 1 - INTRODUÇÃO: ONDE A PLACA ENTRA NO PROJETO? 🕹
-
 As placas de desenvolvimento, como ESP e Arduino, são extremamente versáteis e podem ser utilizadas em uma ampla variedade de aplicações. Esses módulos permitem o controle de dispositivos, monitoramento de condições, envio de dados e automação de processos, entre muitas outras funcionalidades. A versatilidade dessas placas abre um leque enorme de oportunidades e facilita a implementação e criação de projetos inovadores.
 
 Entretanto, é difícil imaginar como aplicar uma tecnologia sem entender o que ela é ou como funciona. Quando uma necessidade surgir, a solução pode não vir à mente se você não souber que essa "tecnologia" existe. Portanto, é essencial aprender sobre essas ferramentas para descobrir suas possíveis aplicações. Tenho certeza de que, ao longo do tempo, você encontrará uma aplicação que considere interessante!
@@ -31,3 +30,7 @@ Entretanto, é difícil imaginar como aplicar uma tecnologia sem entender o que 
 * Controlar um drone
 
 **Vamos juntos explorar o potencial dessas tecnologias e criar projetos!**
+
+##PROJETOS/AULAS
+* [O_QUE_E_O_ARDUINO?]()
+* [AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO](AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO/README.md)
