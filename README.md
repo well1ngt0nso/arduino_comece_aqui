@@ -1,5 +1,7 @@
 # 💻🔌O que é o Arduino? 🔌💻
 
+[LINKS AULAS/PROJETOS>>](https://github.com/well1ngt0nso/arduino_comece_aqui?tab=readme-ov-file#projetosaulas)
+
 O **Arduino** é uma plataforma de código aberto (open-source) para criação de projetos de eletrônica e programação. Ele consiste em uma **placa de desenvolvimento** com um microcontrolador e um **ambiente de desenvolvimento integrado (IDE)**, que permite programar e controlar a placa de forma fácil e intuitiva. É amplamente utilizado para prototipagem de projetos, aprendizado de programação e eletrônica, e também em projetos profissionais.
 
 ## Como o Arduino Funciona?
@@ -58,5 +60,5 @@ Existem diversos modelos de placas Arduino, cada uma projetada para diferentes t
 
 
 ## PROJETOS/AULAS
-* [O_QUE_E_O_ARDUINO?]()
+* [O_QUE_É_O_ARDUINO?](https://github.com/well1ngt0nso/arduino_comece_aqui/blob/main/README.md#o-que-%C3%A9-o-arduino-)
 * [AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO](AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO/README.md)
