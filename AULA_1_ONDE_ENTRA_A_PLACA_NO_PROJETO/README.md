@@ -44,4 +44,4 @@ Projetos de alta complexidade que envolvem IA, automação industrial e controle
 
 ---
 
-Esses exemplos cobrem desde o básico até projetos especializados, que envolvem programação avançada, eletrônica e até inteligência artificial. Com cada etapa do curso, você ganhará confiança e inspiração para personalizar e desenvolver seus próprios projetos, ampliando seu conhecimento e criatividade no mundo das placas de desenvolvimento.
+Esses exemplos cobrem desde o básico até projetos especializados, que envolvem programação avançada, eletrônica e até inteligência artificial.
