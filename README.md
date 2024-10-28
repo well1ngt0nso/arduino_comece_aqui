@@ -58,7 +58,34 @@ Existem diversos modelos de placas Arduino, cada uma projetada para diferentes t
 - **Documentação e Tutoriais:** [Arduino Docs](https://docs.arduino.cc)
 - **Biblioteca de Projetos:** [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
+## Instalando o Ambiente de Desenvolvimento
+
+Para iniciar o desenvolvimento, é necessário configurar o ambiente adequado. Existem várias opções de IDE (Ambiente de Desenvolvimento Integrado) que podem ser utilizadas, sendo as mais comuns o [Visual Studio Code](https://code.visualstudio.com/) e o [Arduino IDE](https://www.arduino.cc/en/software). Neste projeto, optaremos pelo uso do Arduino IDE.
+
+### Passo a Passo para Instalar o Arduino IDE
+
+1. **Baixe o Arduino IDE**:
+   - Acesse a página oficial do [Arduino IDE](https://www.arduino.cc/en/software).
+   - Selecione a versão compatível com o seu sistema operacional e inicie o download.
+
+2. **Instale o Arduino IDE**:
+   - Após o download, execute o instalador.
+   - Siga as instruções na tela para concluir a instalação.
+
+3. **Configuração Inicial**:
+   - Abra o Arduino IDE após a instalação.
+   - No primeiro uso, o Arduino IDE pode pedir permissão para instalar drivers adicionais. Aceite essas permissões para garantir que o IDE funcione corretamente com dispositivos externos.
+
+4. **Teste a Instalação**:
+   - Conecte seu dispositivo (como uma placa Arduino) ao computador.
+   - Selecione a porta correta em **Ferramentas > Porta** e escolha a placa em **Ferramentas > Placa**.
+   - Carregue um exemplo básico, como **Arquivo > Exemplos > Básico > Piscar**, para verificar se o ambiente está funcionando corretamente.
+
+### Próximos Passos
+
+Com o Arduino IDE instalado e configurado, você já está pronto para iniciar o desenvolvimento! Nos próximos passos, abordaremos como conectar e programar dispositivos usando a plataforma.
 
 ## PROJETOS/AULAS
 * [O_QUE_É_O_ARDUINO?](https://github.com/well1ngt0nso/arduino_comece_aqui/blob/main/README.md#o-que-%C3%A9-o-arduino-)
 * [AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO](AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO/README.md)
+* [AULA_2_ENTENDENDO_O_ARDUINO_IDE]()
