@@ -87,5 +87,5 @@ Com o Arduino IDE instalado e configurado, você já está pronto para iniciar o
 
 ## PROJETOS/AULAS
 * [O_QUE_É_O_ARDUINO?](https://github.com/well1ngt0nso/arduino_comece_aqui/tree/main#o-que-%C3%A9-o-arduino-)
-* [AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO](AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO/README.md)
+* [AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO](https://github.com/well1ngt0nso/arduino_comece_aqui/tree/main/AULA_1_ONDE_ENTRA_A_PLACA_NO_PROJETO#-aula-1---introdu%C3%A7%C3%A3o-onde-a-placa-entra-no-projeto-)
 * [AULA_2_ENTENDENDO_O_ARDUINO_IDE]()
